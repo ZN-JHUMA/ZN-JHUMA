@@ -1,0 +1,48 @@
+{
+  "owner": "𝐌𝐃 𝐍𝐔𝐑𝐍𝐎𝐁𝐈 𝐇𝐀𝐐𝐈𝐄",
+  "fb_ID":"100013678366954",
+  "adminName": "𝐌𝐃 𝐍𝐔𝐑𝐍𝐎𝐁𝐈 𝐇𝐀𝐐𝐈𝐄",
+  "botName": "𝐙𝐍 𝐉𝐇𝐔𝐌𝐀",
+  "token": "8533515055:AAHkvEXlforiPel6IfLuxC7KzZ4h_1Sf25E",
+"mongodbURI":"mongodb+srv://gamingshaon74:XYHJPNVqUHvtA30M@cluster0.n2new.mongodb.net/Botbee?retryWrites=true&w=majority&appName=Cluster0",
+  "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
+  "prefix": ".",
+  "api": "https://noobs-api-sable.vercel.app",
+  "database": {
+    "mongo": true,
+    "json": false
+  },
+  "adminBot": [
+    8462295848
+  ],
+  "botOperator": [
+    5891084825
+  ],
+  "inbox": true,
+  "white_list_group": {
+    "enable": false,
+    "groups": [
+      -1001234567890
+    ]
+  },
+  "white_list_ID": {
+    "enable": false,
+    "IDS": [
+      111222333
+    ]
+  },
+  "ignore_list_ID": {
+    "enable": false,
+    "IDS": [
+      444555666
+    ]
+  },
+  "premium_list_ID": {
+    "enable": false,
+    "IDs": [
+      777888999
+    ]
+  },
+  "unloadCommand": {},
+  "unloadEvent": {}
+}
